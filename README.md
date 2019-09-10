@@ -7,3 +7,11 @@
 2.  pip install -r requirements.txt
 
 3.  python app.py
+
+4. navigate to http://127.0.0.1:5000/ in the browser and test
+
+## Screenshots
+
+
+
+
