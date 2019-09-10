@@ -8,8 +8,6 @@
 - [!Text Analytics Services](https://azure.microsoft.com/en-in/services/cognitive-services/text-analytics/)
 
 
-[!Demo](https://nlpweb.herokuapp.com/)
-
 ## Steps to Launch the Code
 
 1.  Setup Python 3.6.5 version
