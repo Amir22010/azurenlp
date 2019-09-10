@@ -2,4 +2,3 @@ flask
 azure-cognitiveservices-speech
 requests
 uuid
-gunicorn
