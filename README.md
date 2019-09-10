@@ -1,4 +1,4 @@
-# Speech to Speech Translation Wep App using Azure Cognitive Services APIs
+# Speech to Speech Translation and Text Analytics Wep App using Azure Cognitive Services APIs
 
 ## Azure Cognitive Services consume
 
