@@ -37,3 +37,6 @@
 ![Project UI](https://raw.githubusercontent.com/Amir22010/azurenlp/master/images/Capture_azure.PNG)
 
 
+## Note - keys are included in the code is only for testing purpose for azure ai hackathon 2019.
+
+
