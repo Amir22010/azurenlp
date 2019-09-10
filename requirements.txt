@@ -1,0 +1,3 @@
+flask
+azure-cognitiveservices-speech
+gunicorn
