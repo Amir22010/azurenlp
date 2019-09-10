@@ -2,10 +2,10 @@
 
 ## Azure Cognitive Services consume
 
-- [!Speech Services](https://azure.microsoft.com/en-in/services/cognitive-services/speech-services/)
+- [Speech Services](https://azure.microsoft.com/en-in/services/cognitive-services/speech-services/)
 
 
-- [!Text Analytics Services](https://azure.microsoft.com/en-in/services/cognitive-services/text-analytics/)
+- [Text Analytics Services](https://azure.microsoft.com/en-in/services/cognitive-services/text-analytics/)
 
 
 ## Steps to Launch the Code
